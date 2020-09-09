@@ -4,4 +4,5 @@ Planning apa saja yang akan dirutinkan dirumah:
 3. Belajar Pemrograman
    a. Visual
    b. Web
-   c. Python
+   c. Java
+4. Belajar Office
