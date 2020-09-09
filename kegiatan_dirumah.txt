@@ -2,3 +2,7 @@ Planning apa saja yang akan dirutinkan dirumah:
 1. Nyapu
 2. Nyuci
 3. Main Game
+4. Belajar Pemrograman
+   a. Java
+   b. Visual
+   c. Web
